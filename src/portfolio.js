@@ -242,7 +242,7 @@ const achievementSection = {
       subtitle:
         "Accredited as 3rd in 5000+ teams and 25000+ participants in India organized by Scaler School of Technology.",
       image: require("./assets/images/scaler_school_of_technology_logo.jpeg"),
-      imageAlt: "Google Code-In Logo",
+      imageAlt: "Tanayjyot Singh Chawla",
       footerLink: [
         {
           name: "Certification",
@@ -263,7 +263,7 @@ const achievementSection = {
       subtitle:
         "Completed Certificate offered by MIT on Edx on Objected Oriented Programming, Recursion and Runtime Analysis",
       image: require("./assets/images/mitx_logo.png"),
-      imageAlt: "MITx logo",
+      imageAlt: "Tanayjyot Singh Chawla",
       footerLink: [
         {
           name: "Certification",
@@ -276,7 +276,7 @@ const achievementSection = {
       title: "Introduction to C++",
       subtitle: "Completed Certifcation from Sololearn on C++ basics",
       image: require("./assets/images/sololearn_logo.jpeg"),
-      imageAlt: "Sololearn Logo",
+      imageAlt: "Tanayjyot Singh Chawla",
       footerLink: [
         {name: "Certification",
           url: "https://www.sololearn.com/en/certificates/CT-HX76LLW3"
